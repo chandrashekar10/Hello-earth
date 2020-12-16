@@ -1,2 +1,2 @@
 # Hello-earth
-Learning to use github
+Learning to use github by chandrashekar radhakrishnan
