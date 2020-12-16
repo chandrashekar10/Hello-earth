@@ -1,2 +1,2 @@
 # Hello-earth
-Learning to us github
+Learning to use github
